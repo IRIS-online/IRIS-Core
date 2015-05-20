@@ -1,0 +1,3 @@
+dist/*
+build/*
+iris_core.egg-info/*
